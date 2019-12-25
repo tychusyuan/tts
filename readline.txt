@@ -1,0 +1,11 @@
+Google Cloud 
+Text-to-Speech 
+enables 
+developers 
+synthesize 
+natural-sounding 
+speech 
+available 
+multiple 
+languages 
+variants
